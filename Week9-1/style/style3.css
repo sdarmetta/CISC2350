@@ -1,0 +1,56 @@
+h1{
+	text-align: center;
+}
+
+h3{
+	text-align: center;
+}
+
+#robert{
+	text-align: center;
+}
+
+#navbar{
+	background-color: yellow;
+	color: yellow;
+	position: fixed;
+	top: 0;
+	width: 100%;
+}
+
+.p1{
+	border-style: solid;
+	width: 90%;
+}
+
+.p2{
+	border-style: solid;
+	position: relative;
+	top: 10px;
+	left: 10px;
+	width: 90%;
+}
+
+.p3{
+	border-style: solid;
+	position: relative;
+	top: 20px;
+	left: 20px;
+	width: 90%;
+}
+
+.p4{
+	border-style: solid;
+	position: relative;
+	top: 30px;
+	left: 30px;
+	width: 90%;
+}
+
+.p5{
+	border-style: solid;
+	position: relative;
+	top: 40px;
+	left: 40px;
+	width: 90%;
+}

@@ -1,0 +1,34 @@
+h1{
+	text-align: center;
+}
+
+h3{
+	text-align: center;
+}
+
+#robert{
+	text-align: center;
+}
+
+#navbar{
+	background-color: yellow;
+	color: yellow;
+	position: fixed;
+	top: 0;
+	width: 100%;
+}
+
+.p1{
+	box-sizing: border-box;
+	border-style: solid;
+	float: left;
+	width: 49%;
+}
+
+.p2{
+	box-sizing: border-box;
+	border-style: solid;
+	float: right;
+	height: 340px;
+	width: 49%;
+}

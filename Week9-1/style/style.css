@@ -1,0 +1,18 @@
+h1{
+	text-align: center;
+}
+
+h3{
+	text-align: center;
+}
+
+#robert{
+	text-align: center;
+}
+
+#navbar{
+	background-color: yellow;
+	box-sizing: border-box;
+	color: yellow;
+	height: 50px;
+}
