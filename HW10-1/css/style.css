@@ -1,0 +1,16 @@
+.button{
+	border: none;
+	height: 50px;
+	background-color: white;
+	font-size: 15px;
+	display: inline-block;
+	position: relative;
+	left: 50px;
+	bottom: 25px;
+}
+
+#navbar{
+	position: relative;
+	top: 0;
+}
+
