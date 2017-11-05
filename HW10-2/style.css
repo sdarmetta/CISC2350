@@ -1,0 +1,62 @@
+body{
+	font-family: georgia;
+	text-align: center;
+}
+h6{
+	color: white;
+}
+p{
+	padding: 50px;
+	color: white;
+}
+#linear-gradient{
+	height: 200px;
+	background: linear-gradient(red, blue, green, yellow);
+}
+
+#linear-right{
+	height: 100px;
+	background: linear-gradient(to right, red, blue, green, yellow);
+}
+
+#linear-left{
+	height: 100px;
+	background: linear-gradient(to left, red, blue, green, yellow);
+}
+
+#top-right{
+	height: 100px;
+	background: linear-gradient(to top right, red, blue, green, yellow);
+}
+#top-left{
+	height: 100px;
+	background: linear-gradient(to top left, red, blue, green, yellow);
+}
+#radial{
+	height: 200px;
+	background: radial-gradient(red, blue, green, yellow);
+}
+#circle{
+	height: 100px;
+	background: radial-gradient(circle, red, blue, green, yellow);
+}
+#closest{
+	height: 100px;
+	background: radial-gradient(circle closest-side, red, blue, green, yellow);
+}
+#circleTopRight{
+	height: 100px;
+	background: radial-gradient(circle at top right, red, blue, green, yellow);
+}
+
+
+
+
+
+
+
+
+
+
+
+
