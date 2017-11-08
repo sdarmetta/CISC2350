@@ -1,0 +1,32 @@
+body{
+	text-align: center;
+	font-family: Helvetica;
+}
+
+#intro{
+	-webkit-animation-delay: .5s;
+}
+
+#roll{
+	-webkit-animation-delay: 1s;
+}
+
+#roll:hover{
+	-webkit-animation: 3s;
+}
+
+#bouncing{
+	-webkit-animation-delay: 1s;
+}
+
+#bouncing:hover{
+	-webkit-animation: 1s;
+}
+
+#speedIn{
+	-webkit-animation-delay: 1s;
+}
+
+#speedIn:hover{
+	-webkit-animation: 3s;
+}
