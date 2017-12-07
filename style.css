@@ -1,0 +1,15 @@
+body{
+	text-align: center;
+	font-family: sans-serif;
+}
+#main{
+	background-color: black;
+	color: white;
+}
+ol{
+	display: inline-block;
+}
+h3{
+	border-style: solid;
+	border-color: black;
+}
